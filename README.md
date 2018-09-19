@@ -1,4 +1,6 @@
 # mytest
 这是测试
 applications admin
-ok
+o
+k
+oooooooooooooook:
